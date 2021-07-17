@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mehmetfiratt
+- 👀 I’m interested in backend, frontend, data science and big data
+- 🌱 I’m currently learning data science and big data
